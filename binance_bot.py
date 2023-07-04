@@ -7,8 +7,8 @@ import json
 
 class binance_bot:
     def __init__(self):
-        self.api_key = '6JF4sLJSNDTqs8q8RQKprpFZkd1H4VMgLiiQkhqKUloDlael58OOGQGfL3WXfWRq'
-        self.secret_key = 'lbvbRQVjAVig6Xrkzhcmdz5ZYJuC78NlPSkryl8xjvGyxFqJ9Wq9NuRKU6ZBxeDn'
+        self.api_key = 'xxx'
+        self.secret_key = 'xxx'
         self.total_value_aud = 0
         self.total_value_busd = 0
         self.busd_threshold = 0.3
